@@ -7,8 +7,3 @@ compatibility_flags = ["nodejs_compat"]
 ADMIN_PASSWORDS = "mypass123"
 DOMAINS = "freeopenclawskills.cn"
 DISABLE_TURNSTILE = "true"
-
-[[d1_databases]]
-binding = "DB"
-database_name = "temp_email_db"
-database_id = ""
